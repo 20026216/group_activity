@@ -1,5 +1,5 @@
 import unittest
-from example import subtract
+from src.example import subtract
 
 # uncomment the following test in step 5
 def test_subtract():
